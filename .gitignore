@@ -1,1 +1,3 @@
-*.js
+passwords/
+app.js
+*.css
